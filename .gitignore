@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+.roo/
+.clinerules
+.clineignore
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables (DO NOT COMMIT!)
+.env
+ezproxy_cookies.json
+
+# Output files & Directories
+LITERATURE_REVIEW.md
+articles/
+*.log
+
+
+# Browser Profile & Authentication State
+src/auth/.browser_profile/
+*.txt
